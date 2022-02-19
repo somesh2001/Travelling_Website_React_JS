@@ -20,7 +20,7 @@ some array which contain data about the Locations.
 ## Design process.
 To develop the website I have used concepts of UI design to make my website 
 more usable.
-1.Wireframe Design
+1. Wireframe Design
 2. Information architecture 
 3. User research and desk research
 4. Hueristic principles
