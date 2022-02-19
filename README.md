@@ -11,7 +11,7 @@ Religious Location
 ## Software requirements
 In developing the website I have used so many technologies In background like 
 Reactjs, Bootstarp, html, Css and Javascript
-1, I have used Reactjs for creating and using the component.
+1. I have used Reactjs for creating and using the component.
 2. I have used bootstrap for designing Corousel, layout and to make the 
 website completely responsive.
 3. I have used javascript to add functionalities in my website and json to add 
